@@ -1,9 +1,10 @@
-# NativeBase TypeScript Expo Template
+# Rick and Morty API with NativeBase 
 
-The official NativeBase TypeScript template for [Expo](https://docs.expo.io/)
+Listando personagens do Rick and Morty.
 
 ## Usage
 
 ```sh
-expo init my-app --template @native-base/expo-template-typescript
+yarn install 
+yarn start
 ```
